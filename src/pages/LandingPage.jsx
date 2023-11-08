@@ -1,10 +1,11 @@
-// import Slider from '../components/Slider';
+import Slider from "../components/Slider";
 
-// const LandingPage = () => {
-//   return(
-//     <>
-//       <Slider />
-//     </>
-// )};
+const LandingPage = () => {
+  return (
+    <>
+      <Slider />
+    </>
+  );
+};
 
-// export default LandingPage;
+export default LandingPage;
